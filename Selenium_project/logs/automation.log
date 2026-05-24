@@ -1,0 +1,635 @@
+2026-05-20 12:04:46,514 - INFO - ====== WebDriver manager ======
+2026-05-20 12:04:48,458 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:04:48,559 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:04:48,634 - INFO - Driver [C:\Users\Horizon InfoTech\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 12:04:54,873 - INFO - ====== WebDriver manager ======
+2026-05-20 12:04:56,522 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:04:56,627 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:04:56,743 - INFO - Driver [C:\Users\Horizon InfoTech\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 12:05:07,107 - INFO - ====== WebDriver manager ======
+2026-05-20 12:05:09,074 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:05:09,188 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:05:09,323 - INFO - Driver [C:\Users\Horizon InfoTech\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 12:05:36,020 - INFO - ====== WebDriver manager ======
+2026-05-20 12:05:37,760 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:05:37,879 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:05:38,016 - INFO - Driver [C:\Users\Horizon InfoTech\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 12:12:29,497 - INFO - ====== WebDriver manager ======
+2026-05-20 12:12:31,296 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:12:31,484 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:12:31,572 - INFO - Driver [C:\Users\Horizon InfoTech\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 12:12:45,803 - INFO - ====== WebDriver manager ======
+2026-05-20 12:12:47,654 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:12:47,736 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:12:47,806 - INFO - Driver [C:\Users\Horizon InfoTech\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 12:21:16,724 - INFO - ====== WebDriver manager ======
+2026-05-20 12:21:18,457 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:21:18,610 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:21:18,695 - INFO - Driver [C:\Users\Horizon InfoTech\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 12:21:20,398 - INFO - Invalid login test started
+2026-05-20 12:21:30,543 - INFO - Invalid login test passed
+2026-05-20 12:21:32,992 - INFO - ====== WebDriver manager ======
+2026-05-20 12:21:35,038 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:21:35,121 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:21:35,204 - INFO - Driver [C:\Users\Horizon InfoTech\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 12:21:36,601 - INFO - Invalid search test started
+2026-05-20 12:21:43,387 - INFO - Invalid search test passed
+2026-05-20 12:29:35,107 - INFO - Invalid login test started
+2026-05-20 12:29:45,014 - INFO - Invalid login test passed
+2026-05-20 12:29:51,035 - INFO - Invalid search test started
+2026-05-20 12:29:57,842 - INFO - Invalid search test passed
+2026-05-20 13:10:50,622 - INFO - Health and Wellness E2E test started
+2026-05-20 13:10:52,323 - INFO - Homepage opened
+2026-05-20 13:10:59,591 - INFO - Health and Wellness product searched
+2026-05-20 13:11:13,918 - INFO - Product page opened
+2026-05-20 13:11:38,405 - ERROR - E2E flow failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xc4b593+105d3]
+	chromedriver!GetHandleVerifier [0xc4b6c4+10704]
+	chromedriver!(No symbol) [0xa51ea0]
+	chromedriver!(No symbol) [0xa9b28a]
+	chromedriver!(No symbol) [0xa9b52b]
+	chromedriver!(No symbol) [0xadd052]
+	chromedriver!(No symbol) [0xabd7c4]
+	chromedriver!(No symbol) [0xada936]
+	chromedriver!(No symbol) [0xabd516]
+	chromedriver!(No symbol) [0xa908e9]
+	chromedriver!(No symbol) [0xa916a4]
+	chromedriver!GetHandleVerifier [0xed3014+298054]
+	chromedriver!GetHandleVerifier [0xece603+293643]
+	chromedriver!GetHandleVerifier [0xeeea05+2b3a45]
+	chromedriver!GetHandleVerifier [0xc654e8+2a528]
+	chromedriver!GetHandleVerifier [0xc6cd1d+31d5d]
+	chromedriver!GetHandleVerifier [0xc53e68+18ea8]
+	chromedriver!GetHandleVerifier [0xc54015+19055]
+	chromedriver!GetHandleVerifier [0xc3d65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x75ae5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x778fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778fd7c1+231]
+
+2026-05-20 14:20:24,995 - INFO - Health and Wellness E2E test started
+2026-05-20 14:20:26,320 - INFO - Homepage opened
+2026-05-20 14:20:33,135 - INFO - Health and Wellness product searched
+2026-05-20 14:20:47,517 - INFO - Product page opened
+2026-05-20 14:21:11,816 - ERROR - E2E flow failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xc9b593+105d3]
+	chromedriver!GetHandleVerifier [0xc9b6c4+10704]
+	chromedriver!(No symbol) [0xaa1ea0]
+	chromedriver!(No symbol) [0xaeb28a]
+	chromedriver!(No symbol) [0xaeb52b]
+	chromedriver!(No symbol) [0xb2d052]
+	chromedriver!(No symbol) [0xb0d7c4]
+	chromedriver!(No symbol) [0xb2a936]
+	chromedriver!(No symbol) [0xb0d516]
+	chromedriver!(No symbol) [0xae08e9]
+	chromedriver!(No symbol) [0xae16a4]
+	chromedriver!GetHandleVerifier [0xf23014+298054]
+	chromedriver!GetHandleVerifier [0xf1e603+293643]
+	chromedriver!GetHandleVerifier [0xf3ea05+2b3a45]
+	chromedriver!GetHandleVerifier [0xcb54e8+2a528]
+	chromedriver!GetHandleVerifier [0xcbcd1d+31d5d]
+	chromedriver!GetHandleVerifier [0xca3e68+18ea8]
+	chromedriver!GetHandleVerifier [0xca4015+19055]
+	chromedriver!GetHandleVerifier [0xc8d65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x75ae5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x778fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778fd7c1+231]
+
+2026-05-20 14:23:12,933 - INFO - Health and Wellness E2E flow started
+2026-05-20 14:23:17,674 - INFO - Homepage opened
+2026-05-20 14:23:20,873 - INFO - Health and Wellness section opened
+2026-05-20 14:23:30,601 - INFO - Vitamin product searched
+2026-05-20 14:23:45,237 - INFO - Product page opened
+2026-05-20 14:24:09,509 - ERROR - E2E flow failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xc9b593+105d3]
+	chromedriver!GetHandleVerifier [0xc9b6c4+10704]
+	chromedriver!(No symbol) [0xaa1ea0]
+	chromedriver!(No symbol) [0xaeb28a]
+	chromedriver!(No symbol) [0xaeb52b]
+	chromedriver!(No symbol) [0xb2d052]
+	chromedriver!(No symbol) [0xb0d7c4]
+	chromedriver!(No symbol) [0xb2a936]
+	chromedriver!(No symbol) [0xb0d516]
+	chromedriver!(No symbol) [0xae08e9]
+	chromedriver!(No symbol) [0xae16a4]
+	chromedriver!GetHandleVerifier [0xf23014+298054]
+	chromedriver!GetHandleVerifier [0xf1e603+293643]
+	chromedriver!GetHandleVerifier [0xf3ea05+2b3a45]
+	chromedriver!GetHandleVerifier [0xcb54e8+2a528]
+	chromedriver!GetHandleVerifier [0xcbcd1d+31d5d]
+	chromedriver!GetHandleVerifier [0xca3e68+18ea8]
+	chromedriver!GetHandleVerifier [0xca4015+19055]
+	chromedriver!GetHandleVerifier [0xc8d65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x75ae5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x778fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778fd7c1+231]
+
+2026-05-20 14:28:04,051 - INFO - Health & Wellness E2E flow started
+2026-05-20 14:28:09,578 - INFO - Health & Wellness section opened
+2026-05-20 14:28:18,072 - INFO - Vitamin searched
+2026-05-20 14:28:32,347 - INFO - Product page opened
+2026-05-20 14:28:57,626 - ERROR - E2E flow failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xc9b593+105d3]
+	chromedriver!GetHandleVerifier [0xc9b6c4+10704]
+	chromedriver!(No symbol) [0xaa1ea0]
+	chromedriver!(No symbol) [0xaeb28a]
+	chromedriver!(No symbol) [0xaeb52b]
+	chromedriver!(No symbol) [0xb2d052]
+	chromedriver!(No symbol) [0xb0d7c4]
+	chromedriver!(No symbol) [0xb2a936]
+	chromedriver!(No symbol) [0xb0d516]
+	chromedriver!(No symbol) [0xae08e9]
+	chromedriver!(No symbol) [0xae16a4]
+	chromedriver!GetHandleVerifier [0xf23014+298054]
+	chromedriver!GetHandleVerifier [0xf1e603+293643]
+	chromedriver!GetHandleVerifier [0xf3ea05+2b3a45]
+	chromedriver!GetHandleVerifier [0xcb54e8+2a528]
+	chromedriver!GetHandleVerifier [0xcbcd1d+31d5d]
+	chromedriver!GetHandleVerifier [0xca3e68+18ea8]
+	chromedriver!GetHandleVerifier [0xca4015+19055]
+	chromedriver!GetHandleVerifier [0xc8d65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x75ae5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x778fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778fd7c1+231]
+
+2026-05-20 14:30:48,242 - INFO - Health & Wellness E2E flow started
+2026-05-20 14:30:54,233 - INFO - Health & Wellness section opened
+2026-05-20 14:31:03,035 - INFO - Vitamin searched
+2026-05-20 14:31:18,169 - INFO - Product page opened
+2026-05-20 14:31:31,193 - ERROR - E2E flow failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Add to Bag')]"}
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xc9b593+105d3]
+	chromedriver!GetHandleVerifier [0xc9b6c4+10704]
+	chromedriver!(No symbol) [0xaa1ea0]
+	chromedriver!(No symbol) [0xaeb28a]
+	chromedriver!(No symbol) [0xaeb52b]
+	chromedriver!(No symbol) [0xb2d052]
+	chromedriver!(No symbol) [0xb0d7c4]
+	chromedriver!(No symbol) [0xb2a936]
+	chromedriver!(No symbol) [0xb0d516]
+	chromedriver!(No symbol) [0xae08e9]
+	chromedriver!(No symbol) [0xae16a4]
+	chromedriver!GetHandleVerifier [0xf23014+298054]
+	chromedriver!GetHandleVerifier [0xf1e603+293643]
+	chromedriver!GetHandleVerifier [0xf3ea05+2b3a45]
+	chromedriver!GetHandleVerifier [0xcb54e8+2a528]
+	chromedriver!GetHandleVerifier [0xcbcd1d+31d5d]
+	chromedriver!GetHandleVerifier [0xca3e68+18ea8]
+	chromedriver!GetHandleVerifier [0xca4015+19055]
+	chromedriver!GetHandleVerifier [0xc8d65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x75ae5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x778fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778fd7c1+231]
+
+2026-05-20 14:38:36,082 - INFO - Health & Wellness E2E flow started
+2026-05-20 14:38:38,477 - INFO - Homepage opened successfully
+2026-05-20 14:38:42,030 - INFO - Health & Wellness section opened
+2026-05-20 14:38:51,250 - INFO - Health product searched successfully
+2026-05-20 14:39:06,396 - INFO - First product opened successfully
+2026-05-20 14:39:19,520 - ERROR - E2E flow failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Add to Cart')]"}
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xc9b593+105d3]
+	chromedriver!GetHandleVerifier [0xc9b6c4+10704]
+	chromedriver!(No symbol) [0xaa1ea0]
+	chromedriver!(No symbol) [0xaeb28a]
+	chromedriver!(No symbol) [0xaeb52b]
+	chromedriver!(No symbol) [0xb2d052]
+	chromedriver!(No symbol) [0xb0d7c4]
+	chromedriver!(No symbol) [0xb2a936]
+	chromedriver!(No symbol) [0xb0d516]
+	chromedriver!(No symbol) [0xae08e9]
+	chromedriver!(No symbol) [0xae16a4]
+	chromedriver!GetHandleVerifier [0xf23014+298054]
+	chromedriver!GetHandleVerifier [0xf1e603+293643]
+	chromedriver!GetHandleVerifier [0xf3ea05+2b3a45]
+	chromedriver!GetHandleVerifier [0xcb54e8+2a528]
+	chromedriver!GetHandleVerifier [0xcbcd1d+31d5d]
+	chromedriver!GetHandleVerifier [0xca3e68+18ea8]
+	chromedriver!GetHandleVerifier [0xca4015+19055]
+	chromedriver!GetHandleVerifier [0xc8d65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x75ae5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x778fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778fd7c1+231]
+
+2026-05-20 14:43:30,712 - INFO - Health & Wellness E2E flow started
+2026-05-20 14:43:32,212 - INFO - Homepage opened successfully
+2026-05-20 14:43:36,065 - INFO - Health & Wellness section opened
+2026-05-20 14:43:45,148 - INFO - Health product searched successfully
+2026-05-20 14:44:00,338 - INFO - First product opened successfully
+2026-05-20 14:44:13,406 - ERROR - E2E flow failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Add to Cart')]"}
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x126b593+105d3]
+	chromedriver!GetHandleVerifier [0x126b6c4+10704]
+	chromedriver!(No symbol) [0x1071ea0]
+	chromedriver!(No symbol) [0x10bb28a]
+	chromedriver!(No symbol) [0x10bb52b]
+	chromedriver!(No symbol) [0x10fd052]
+	chromedriver!(No symbol) [0x10dd7c4]
+	chromedriver!(No symbol) [0x10fa936]
+	chromedriver!(No symbol) [0x10dd516]
+	chromedriver!(No symbol) [0x10b08e9]
+	chromedriver!(No symbol) [0x10b16a4]
+	chromedriver!GetHandleVerifier [0x14f3014+298054]
+	chromedriver!GetHandleVerifier [0x14ee603+293643]
+	chromedriver!GetHandleVerifier [0x150ea05+2b3a45]
+	chromedriver!GetHandleVerifier [0x12854e8+2a528]
+	chromedriver!GetHandleVerifier [0x128cd1d+31d5d]
+	chromedriver!GetHandleVerifier [0x1273e68+18ea8]
+	chromedriver!GetHandleVerifier [0x1274015+19055]
+	chromedriver!GetHandleVerifier [0x125d65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x75ae5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x778fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778fd7c1+231]
+
+2026-05-20 14:46:00,923 - INFO - Health & Wellness E2E flow started
+2026-05-20 14:46:03,230 - INFO - Homepage opened successfully
+2026-05-20 14:46:06,465 - INFO - Health & Wellness section opened
+2026-05-20 14:46:15,747 - INFO - Health product searched successfully
+2026-05-20 14:46:30,947 - INFO - First product opened successfully
+2026-05-20 14:46:44,084 - ERROR - E2E flow failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Add to Cart')]"}
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x126b593+105d3]
+	chromedriver!GetHandleVerifier [0x126b6c4+10704]
+	chromedriver!(No symbol) [0x1071ea0]
+	chromedriver!(No symbol) [0x10bb28a]
+	chromedriver!(No symbol) [0x10bb52b]
+	chromedriver!(No symbol) [0x10fd052]
+	chromedriver!(No symbol) [0x10dd7c4]
+	chromedriver!(No symbol) [0x10fa936]
+	chromedriver!(No symbol) [0x10dd516]
+	chromedriver!(No symbol) [0x10b08e9]
+	chromedriver!(No symbol) [0x10b16a4]
+	chromedriver!GetHandleVerifier [0x14f3014+298054]
+	chromedriver!GetHandleVerifier [0x14ee603+293643]
+	chromedriver!GetHandleVerifier [0x150ea05+2b3a45]
+	chromedriver!GetHandleVerifier [0x12854e8+2a528]
+	chromedriver!GetHandleVerifier [0x128cd1d+31d5d]
+	chromedriver!GetHandleVerifier [0x1273e68+18ea8]
+	chromedriver!GetHandleVerifier [0x1274015+19055]
+	chromedriver!GetHandleVerifier [0x125d65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x75ae5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x778fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778fd7c1+231]
+
+2026-05-20 15:09:47,319 - INFO - Health & Wellness E2E flow started
+2026-05-20 15:09:49,158 - INFO - Homepage opened successfully
+2026-05-20 15:09:52,503 - INFO - Health & Wellness section opened
+2026-05-20 15:10:03,596 - INFO - Health product searched successfully
+2026-05-20 15:10:18,818 - INFO - First product opened successfully
+2026-05-20 15:10:31,914 - ERROR - E2E flow failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Add to Cart')]"}
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x79b593+105d3]
+	chromedriver!GetHandleVerifier [0x79b6c4+10704]
+	chromedriver!(No symbol) [0x5a1ea0]
+	chromedriver!(No symbol) [0x5eb28a]
+	chromedriver!(No symbol) [0x5eb52b]
+	chromedriver!(No symbol) [0x62d052]
+	chromedriver!(No symbol) [0x60d7c4]
+	chromedriver!(No symbol) [0x62a936]
+	chromedriver!(No symbol) [0x60d516]
+	chromedriver!(No symbol) [0x5e08e9]
+	chromedriver!(No symbol) [0x5e16a4]
+	chromedriver!GetHandleVerifier [0xa23014+298054]
+	chromedriver!GetHandleVerifier [0xa1e603+293643]
+	chromedriver!GetHandleVerifier [0xa3ea05+2b3a45]
+	chromedriver!GetHandleVerifier [0x7b54e8+2a528]
+	chromedriver!GetHandleVerifier [0x7bcd1d+31d5d]
+	chromedriver!GetHandleVerifier [0x7a3e68+18ea8]
+	chromedriver!GetHandleVerifier [0x7a4015+19055]
+	chromedriver!GetHandleVerifier [0x78d65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x75ae5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x778fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778fd7c1+231]
+
+2026-05-20 15:11:48,390 - INFO - Health & Wellness E2E flow started
+2026-05-20 15:11:50,276 - INFO - Homepage opened successfully
+2026-05-20 15:11:53,703 - INFO - Health & Wellness section opened
+2026-05-20 15:12:03,088 - INFO - Health product searched successfully
+2026-05-20 15:12:18,312 - INFO - First product opened successfully
+2026-05-20 15:12:31,423 - ERROR - E2E flow failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Add to Cart')]"}
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x79b593+105d3]
+	chromedriver!GetHandleVerifier [0x79b6c4+10704]
+	chromedriver!(No symbol) [0x5a1ea0]
+	chromedriver!(No symbol) [0x5eb28a]
+	chromedriver!(No symbol) [0x5eb52b]
+	chromedriver!(No symbol) [0x62d052]
+	chromedriver!(No symbol) [0x60d7c4]
+	chromedriver!(No symbol) [0x62a936]
+	chromedriver!(No symbol) [0x60d516]
+	chromedriver!(No symbol) [0x5e08e9]
+	chromedriver!(No symbol) [0x5e16a4]
+	chromedriver!GetHandleVerifier [0xa23014+298054]
+	chromedriver!GetHandleVerifier [0xa1e603+293643]
+	chromedriver!GetHandleVerifier [0xa3ea05+2b3a45]
+	chromedriver!GetHandleVerifier [0x7b54e8+2a528]
+	chromedriver!GetHandleVerifier [0x7bcd1d+31d5d]
+	chromedriver!GetHandleVerifier [0x7a3e68+18ea8]
+	chromedriver!GetHandleVerifier [0x7a4015+19055]
+	chromedriver!GetHandleVerifier [0x78d65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x75ae5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x778fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778fd7c1+231]
+
+2026-05-20 15:25:55,646 - INFO - E2E flow started for Vitamin
+2026-05-20 15:25:57,863 - INFO - Homepage opened successfully
+2026-05-20 15:26:01,528 - INFO - Health & Wellness section opened
+2026-05-20 15:26:16,375 - INFO - Vitamin searched successfully
+2026-05-20 15:26:31,572 - INFO - First product opened successfully
+2026-05-20 15:26:44,648 - ERROR - Vitamin E2E flow failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Add to Cart')]"}
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xe2b593+105d3]
+	chromedriver!GetHandleVerifier [0xe2b6c4+10704]
+	chromedriver!(No symbol) [0xc31ea0]
+	chromedriver!(No symbol) [0xc7b28a]
+	chromedriver!(No symbol) [0xc7b52b]
+	chromedriver!(No symbol) [0xcbd052]
+	chromedriver!(No symbol) [0xc9d7c4]
+	chromedriver!(No symbol) [0xcba936]
+	chromedriver!(No symbol) [0xc9d516]
+	chromedriver!(No symbol) [0xc708e9]
+	chromedriver!(No symbol) [0xc716a4]
+	chromedriver!GetHandleVerifier [0x10b3014+298054]
+	chromedriver!GetHandleVerifier [0x10ae603+293643]
+	chromedriver!GetHandleVerifier [0x10cea05+2b3a45]
+	chromedriver!GetHandleVerifier [0xe454e8+2a528]
+	chromedriver!GetHandleVerifier [0xe4cd1d+31d5d]
+	chromedriver!GetHandleVerifier [0xe33e68+18ea8]
+	chromedriver!GetHandleVerifier [0xe34015+19055]
+	chromedriver!GetHandleVerifier [0xe1d65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x75ae5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x778fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778fd7c1+231]
+
+2026-05-20 15:26:50,474 - INFO - E2E flow started for Protein Powder
+2026-05-20 15:26:52,372 - INFO - Homepage opened successfully
+2026-05-20 15:26:55,773 - INFO - Health & Wellness section opened
+2026-05-20 15:27:11,514 - INFO - Protein Powder searched successfully
+2026-05-20 15:27:26,676 - INFO - First product opened successfully
+2026-05-20 15:27:44,744 - INFO - Protein Powder add to cart attempted
+2026-05-20 15:27:59,789 - INFO - Bag opened successfully
+2026-05-20 15:33:23,702 - INFO - E2E flow started for Vitamin
+2026-05-20 15:33:25,430 - INFO - Homepage opened successfully
+2026-05-20 15:33:29,107 - INFO - Health & Wellness section opened
+2026-05-20 15:33:38,149 - INFO - Vitamin searched successfully
+2026-05-20 15:33:53,345 - INFO - First product opened successfully
+2026-05-20 15:34:11,412 - INFO - Vitamin add to cart attempted
+2026-05-20 15:34:26,452 - INFO - Bag opened successfully
+2026-05-20 15:34:37,569 - INFO - E2E flow started for Protein Powder
+2026-05-20 15:34:39,416 - INFO - Homepage opened successfully
+2026-05-20 15:34:43,076 - INFO - Health & Wellness section opened
+2026-05-20 15:34:52,247 - INFO - Protein Powder searched successfully
+2026-05-20 15:35:07,464 - INFO - First product opened successfully
+2026-05-20 15:35:20,553 - ERROR - Protein Powder E2E flow failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Add to Cart')]"}
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xe2b593+105d3]
+	chromedriver!GetHandleVerifier [0xe2b6c4+10704]
+	chromedriver!(No symbol) [0xc31ea0]
+	chromedriver!(No symbol) [0xc7b28a]
+	chromedriver!(No symbol) [0xc7b52b]
+	chromedriver!(No symbol) [0xcbd052]
+	chromedriver!(No symbol) [0xc9d7c4]
+	chromedriver!(No symbol) [0xcba936]
+	chromedriver!(No symbol) [0xc9d516]
+	chromedriver!(No symbol) [0xc708e9]
+	chromedriver!(No symbol) [0xc716a4]
+	y
+
+2026-05-20 23:55:57,806 - INFO - E2E flow started for Vitamin
+2026-05-20 23:56:12,835 - INFO - Homepage opened successfully
+2026-05-20 23:56:14,251 - INFO - Health & Wellness section opened
+2026-05-20 23:56:33,756 - INFO - Vitamin searched successfully
+2026-05-20 23:56:44,377 - INFO - First product opened successfully
+2026-05-20 23:56:54,477 - INFO - Vitamin add to cart attempted
+2026-05-20 23:57:04,507 - INFO - Bag opened successfully
+2026-05-20 23:57:04,507 - INFO - Vitamin E2E flow completed successfully
+2026-05-20 23:57:09,918 - INFO - E2E flow started for Protein Powder
+2026-05-20 23:57:20,313 - INFO - Homepage opened successfully
+2026-05-20 23:57:21,496 - INFO - Health & Wellness section opened
+2026-05-20 23:57:37,736 - INFO - Protein Powder searched successfully
+2026-05-20 23:57:48,294 - INFO - First product opened successfully
+2026-05-20 23:57:59,323 - INFO - Protein Powder add to cart attempted
+2026-05-20 23:58:09,358 - INFO - Bag opened successfully
+2026-05-20 23:58:09,359 - INFO - Protein Powder E2E flow completed successfully
+2026-05-21 00:00:59,023 - INFO - E2E flow started for Vitamin
+2026-05-21 00:01:10,678 - INFO - Homepage opened successfully
+2026-05-21 00:01:11,799 - INFO - Health & Wellness section opened
+2026-05-21 00:01:18,493 - INFO - Vitamin searched successfully
+2026-05-21 00:01:29,631 - INFO - First product opened successfully
+2026-05-21 00:01:39,721 - INFO - Vitamin add to cart attempted
+2026-05-21 00:01:49,751 - INFO - Bag opened successfully
+2026-05-21 00:01:49,752 - INFO - Vitamin E2E flow completed successfully
+2026-05-21 00:03:24,192 - INFO - E2E flow started for Vitamin
+2026-05-21 00:03:36,869 - INFO - Homepage opened successfully
+2026-05-21 00:03:37,868 - INFO - Health & Wellness section opened
+2026-05-21 00:03:55,512 - INFO - Vitamin searched successfully
+2026-05-21 00:04:06,066 - INFO - First product opened successfully
+2026-05-21 00:04:11,303 - ERROR - Vitamin E2E flow failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Add to Cart')]"}
+  (Session info: chrome=148.0.7778.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7968d7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7968d7e50+14900]
+	chromedriver!(No symbol) [0x7ff79663d5ad]
+	chromedriver!(No symbol) [0x7ff796697822]
+	chromedriver!(No symbol) [0x7ff796697b2c]
+	chromedriver!(No symbol) [0x7ff7966e7d17]
+	chromedriver!(No symbol) [0x7ff7966e486f]
+	chromedriver!(No symbol) [0x7ff796689df8]
+	chromedriver!(No symbol) [0x7ff79668ace3]
+	chromedriver!GetHandleVerifier [0x7ff796becc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff796be7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff796c0bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7968f6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7968fecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7968e1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7968e1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7968c60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffee6cae957+17]
+	ntdll!RtlUserThreadStart [0x7ffee768427c+2c]
+
+2026-05-21 00:08:44,221 - INFO - E2E flow started for Vitamin
+2026-05-21 00:08:56,650 - INFO - Homepage opened successfully
+2026-05-21 00:08:57,907 - INFO - Health & Wellness section opened
+2026-05-21 00:09:03,668 - INFO - Vitamin searched successfully
+2026-05-21 00:09:19,554 - ERROR - Vitamin E2E flow failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7968d7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7968d7e50+14900]
+	chromedriver!(No symbol) [0x7ff79663d5ad]
+	chromedriver!(No symbol) [0x7ff796697822]
+	chromedriver!(No symbol) [0x7ff796697b2c]
+	chromedriver!(No symbol) [0x7ff7966e7d17]
+	chromedriver!(No symbol) [0x7ff7966e486f]
+	chromedriver!(No symbol) [0x7ff796689df8]
+	chromedriver!(No symbol) [0x7ff79668ace3]
+	chromedriver!GetHandleVerifier [0x7ff796becc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff796be7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff796c0bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7968f6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7968fecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7968e1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7968e1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7968c60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffee6cae957+17]
+	ntdll!RtlUserThreadStart [0x7ffee768427c+2c]
+
+2026-05-21 00:11:34,248 - INFO - E2E flow started for Vitamin
+2026-05-21 00:11:44,626 - INFO - Homepage opened successfully
+2026-05-21 00:11:45,596 - INFO - Health & Wellness section opened
+2026-05-21 00:11:53,710 - INFO - Vitamin searched successfully
+2026-05-21 00:11:57,532 - INFO - First product opened successfully
+2026-05-21 00:12:18,027 - ERROR - Vitamin E2E flow failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7968d7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7968d7e50+14900]
+	chromedriver!(No symbol) [0x7ff79663d5ad]
+	chromedriver!(No symbol) [0x7ff796697822]
+	chromedriver!(No symbol) [0x7ff796697b2c]
+	chromedriver!(No symbol) [0x7ff7966e7d17]
+	chromedriver!(No symbol) [0x7ff7966e486f]
+	chromedriver!(No symbol) [0x7ff796689df8]
+	chromedriver!(No symbol) [0x7ff79668ace3]
+	chromedriver!GetHandleVerifier [0x7ff796becc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff796be7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff796c0bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7968f6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7968fecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7968e1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7968e1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7968c60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffee6cae957+17]
+	ntdll!RtlUserThreadStart [0x7ffee768427c+2c]
+
+2026-05-21 00:17:03,602 - INFO - E2E flow started for Vitamin
+2026-05-21 00:17:17,340 - INFO - Homepage opened successfully
+2026-05-21 00:17:18,788 - INFO - Health & Wellness section opened
+2026-05-21 00:17:24,006 - INFO - Vitamin searched successfully
+2026-05-21 00:17:27,170 - INFO - First product opened successfully
+2026-05-21 00:17:48,019 - ERROR - Vitamin E2E flow failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7968d7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7968d7e50+14900]
+	chromedriver!(No symbol) [0x7ff79663d5ad]
+	chromedriver!(No symbol) [0x7ff796697822]
+	chromedriver!(No symbol) [0x7ff796697b2c]
+	chromedriver!(No symbol) [0x7ff7966e7d17]
+	chromedriver!(No symbol) [0x7ff7966e486f]
+	chromedriver!(No symbol) [0x7ff796689df8]
+	chromedriver!(No symbol) [0x7ff79668ace3]
+	chromedriver!GetHandleVerifier [0x7ff796becc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff796be7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff796c0bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7968f6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7968fecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7968e1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7968e1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7968c60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffee6cae957+17]
+	ntdll!RtlUserThreadStart [0x7ffee768427c+2c]
+
+2026-05-21 00:22:28,846 - INFO - E2E flow started for Vitamin
+2026-05-21 00:22:46,401 - INFO - Homepage opened successfully
+2026-05-21 00:22:47,516 - INFO - Health & Wellness section opened
+2026-05-21 00:22:54,034 - INFO - Vitamin searched successfully
+2026-05-21 00:23:24,720 - ERROR - Vitamin E2E flow failed: Message: 
+
+2026-05-21 00:25:47,494 - INFO - E2E flow started for Vitamin
+2026-05-21 00:25:59,341 - INFO - Homepage opened successfully
+2026-05-21 00:26:00,600 - INFO - Health & Wellness section opened
+2026-05-21 00:26:09,859 - INFO - Vitamin searched successfully
+2026-05-21 00:26:10,792 - ERROR - Vitamin E2E flow failed: No product found on search page
+2026-05-21 00:28:57,856 - INFO - E2E flow started for Vitamin
+2026-05-21 00:29:03,201 - INFO - Homepage opened successfully
+2026-05-21 00:29:13,509 - ERROR - Vitamin E2E flow failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7968d7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7968d7e50+14900]
+	chromedriver!(No symbol) [0x7ff79663d5ad]
+	chromedriver!(No symbol) [0x7ff796697822]
+	chromedriver!(No symbol) [0x7ff796697b2c]
+	chromedriver!(No symbol) [0x7ff7966e7d17]
+	chromedriver!(No symbol) [0x7ff7966e486f]
+	chromedriver!(No symbol) [0x7ff796689df8]
+	chromedriver!(No symbol) [0x7ff79668ace3]
+	chromedriver!GetHandleVerifier [0x7ff796becc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff796be7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff796c0bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7968f6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7968fecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7968e1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7968e1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7968c60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffee6cae957+17]
+	ntdll!RtlUserThreadStart [0x7ffee768427c+2c]
+
+2026-05-22 03:13:24,184 - INFO - E2E flow started for Vitamin
+2026-05-22 03:13:42,364 - INFO - Homepage opened successfully
+2026-05-22 03:13:43,646 - INFO - Health & Wellness section opened
+2026-05-22 03:14:16,108 - INFO - Vitamin searched successfully
+2026-05-22 03:14:58,029 - INFO - First product opened successfully
+2026-05-22 03:15:07,251 - ERROR - Vitamin E2E flow failed: Add to Bag button not found
+2026-05-22 03:19:12,471 - INFO - E2E flow started for Vitamin
+2026-05-22 03:19:23,247 - INFO - Homepage opened successfully
+2026-05-22 03:19:24,276 - INFO - Health & Wellness section opened
+2026-05-22 03:19:30,057 - INFO - Vitamin searched successfully
+2026-05-22 03:19:44,277 - INFO - First product opened successfully
+2026-05-22 03:22:25,370 - ERROR - Vitamin E2E flow failed: Add to Bag button not found
+2026-05-22 03:27:09,111 - INFO - E2E flow started for Vitamin
+2026-05-22 03:27:11,243 - INFO - Homepage opened successfully
+2026-05-22 03:27:12,735 - INFO - Health & Wellness section opened
+2026-05-22 03:27:17,596 - INFO - Vitamin searched successfully
+2026-05-22 03:27:35,560 - INFO - First product opened successfully
+2026-05-22 03:27:51,419 - ERROR - Vitamin E2E flow failed: Add to Bag button not found
+2026-05-22 03:31:23,004 - INFO - E2E flow started for Vitamin
+2026-05-22 03:31:28,694 - INFO - Homepage opened successfully
+2026-05-22 03:31:29,702 - INFO - Health & Wellness section opened
+2026-05-22 03:31:35,349 - INFO - Vitamin searched successfully
+2026-05-22 03:31:52,866 - INFO - First product opened successfully
+2026-05-22 03:32:13,197 - INFO - Vitamin added to cart successfully
+2026-05-22 03:32:13,209 - ERROR - Vitamin E2E flow failed: 'CartPage' object has no attribute 'open_bag'
+2026-05-22 03:33:56,086 - INFO - E2E flow started for Vitamin
+2026-05-22 03:33:59,500 - INFO - Homepage opened successfully
+2026-05-22 03:34:00,716 - INFO - Health & Wellness section opened
+2026-05-22 03:34:10,327 - INFO - Vitamin searched successfully
+2026-05-22 03:34:28,403 - INFO - First product opened successfully
+2026-05-22 03:34:48,741 - INFO - Vitamin added to cart successfully
+2026-05-22 03:36:54,855 - ERROR - Vitamin E2E flow failed: Unable to open cart
+2026-05-22 03:39:26,032 - INFO - E2E flow started for Vitamin
+2026-05-22 03:39:28,822 - INFO - Homepage opened successfully
+2026-05-22 03:39:29,968 - INFO - Health & Wellness section opened
+2026-05-22 03:39:39,776 - INFO - Vitamin searched successfully
+2026-05-22 03:39:57,801 - INFO - First product opened successfully
+2026-05-22 03:40:32,961 - INFO - Vitamin added to cart successfully
+2026-05-22 03:40:48,210 - INFO - Bag opened successfully
+2026-05-22 03:43:53,150 - INFO - E2E flow started for Vitamin
+2026-05-22 03:44:09,765 - INFO - Homepage opened successfully
+2026-05-22 03:44:10,804 - INFO - Health & Wellness section opened
+2026-05-22 03:44:20,794 - INFO - Vitamin searched successfully
+2026-05-22 03:44:51,359 - INFO - First product opened successfully
+2026-05-22 03:45:11,639 - INFO - Vitamin added to cart successfully
+2026-05-22 03:45:26,861 - INFO - Bag opened successfully
+2026-05-22 03:48:12,989 - INFO - E2E flow started for Vitamin
+2026-05-22 03:48:15,511 - INFO - Homepage opened successfully
+2026-05-22 03:48:17,171 - INFO - Health & Wellness section opened
+2026-05-22 03:48:21,856 - INFO - Vitamin searched successfully
+2026-05-22 03:48:33,991 - INFO - First product opened successfully
+2026-05-22 03:48:54,349 - INFO - Vitamin added to cart successfully
+2026-05-22 03:49:03,171 - ERROR - Vitamin E2E flow failed: Unable to open cart
+2026-05-22 03:52:05,889 - INFO - E2E flow started for Vitamin
+2026-05-22 03:52:38,166 - INFO - Homepage opened successfully
+2026-05-22 03:52:39,264 - INFO - Health & Wellness section opened
+2026-05-22 03:52:44,490 - INFO - Vitamin searched successfully
+2026-05-22 03:53:00,347 - INFO - First product opened successfully
+2026-05-22 03:53:20,717 - INFO - Vitamin added to cart successfully
+2026-05-22 03:54:01,741 - INFO - Bag opened successfully
